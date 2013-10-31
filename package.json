@@ -1,0 +1,13 @@
+{
+  "author": "Taketoshi Aono(brn) <dobaw20@gmail.com>",
+  "description": "Add singleton getter to the exists classes.",
+  "repository": {
+    "url": "git@github.com:brn/node-singleton.git"
+  },
+  "name": "node-singleton-getter",
+  "version": "1.0",
+  "private": false,
+  "engines": {
+    "node": "*"
+  }
+}
