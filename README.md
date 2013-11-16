@@ -1,12 +1,12 @@
 # Simple singleton getter fro NodeJs
 
-#Installation
+##Installation
 
 [npm](http://npmjs.org)
 
   $ npm install node-singleton-getter
 
-#Usage
+##Usage
 ```javascript
   var addSingletonGetter = require('node-singleton-getter');
 
